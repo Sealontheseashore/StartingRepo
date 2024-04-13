@@ -48,6 +48,6 @@ def main():
     lines = get_number_of_lines()
     bet = get_bet()
     total_bet = lines * bet
-    print(f"You are betting {lines} lines with {bet}$ each which is equal {total_bet}")
+    print(f"You are betting {lines} lines with {bet}$ each which is equals {total_bet}")
 
 main()
